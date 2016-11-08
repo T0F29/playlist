@@ -1,4 +1,4 @@
-# playlist
+# Playlist
 Appli permettant de se faire des playlists à partir d'une playlist principale.
 
 Mode d'emploi:
