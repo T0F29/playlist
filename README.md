@@ -1,6 +1,10 @@
 # playlist
-appli permettant de se faire des playlists à partir d'une playlist principale.
-fonctionne à partir d'une base de données dont le script d'import est dans le répertoire bdd
-on peut se loguer avec 2 utilisateurs: "admin" et "user"
-"user" a pour mot de passe "user" et permet de se faire des playlists perso
-"admin" devrait dans le futur pouvoir gérer la playlist générale du site (mot de passe "admin")
++Appli permettant de se faire des playlists à partir d'une playlist principale.
++
++Mode d'emploi:
++1. Copiez les fichiers sur votre serveur
++2. Importez la base de données à partir du script d'import situé dans le répertoire "bdd"
++3. Modifiez éventuellement les appels à la base de données en fonction de vos paramètres persos (identifiant et mot de passe base de données)
++4. Allez à la page index.php
++5 Connectez-vous avec l'utilisateur "user" dont le mot de passe est "user"
+
