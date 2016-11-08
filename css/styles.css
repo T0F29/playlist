@@ -1,0 +1,18 @@
+body {
+
+  padding-top: 50px;
+
+}
+
+footer {
+    text-align: center;
+}
+
+.erreur
+{
+    color: #f23113;
+}
+
+.list-group-item > .titre {
+    font-weight: bold;
+}
