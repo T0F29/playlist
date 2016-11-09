@@ -43,5 +43,4 @@ class User
     function setEmail($email) {
         $this->email = $email;
     }
-
 }
